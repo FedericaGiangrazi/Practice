@@ -4,7 +4,7 @@ setwd("/Users/wishart/Desktop/GWAS_project_trimmed/")  ### Change this to the ap
 
 
 folderPath <- "Data/"
-filename = "resampled Data"
+filename = "efotraits_EFO_0006918-associations-2020-01-27"
 resultsfilename = "results Data"
 dir.create(filename)
 dir.create(resultsfilename)
